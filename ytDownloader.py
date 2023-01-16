@@ -7,7 +7,7 @@ window.geometry("250x300+10+20")
 window.minsize(250, 300)
 window.maxsize(250, 300)
 
-SAVE_PATH = "./downloaded/"
+SAVE_PATH = ""
 
 def processLink(url):    
     try:
